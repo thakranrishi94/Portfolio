@@ -179,7 +179,7 @@ export default function Home() {
 
             <div className="hidden md:block">
               <a
-                href="/resume.pdf"
+                href="/Rishabh_Resume.pdf"
                 target="_blank"
                 className={`px-4 py-2 rounded-md transition-colors duration-300 ${isScrolling
                   ? 'bg-indigo-600 text-white hover:bg-indigo-700'
