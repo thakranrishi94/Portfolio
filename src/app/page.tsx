@@ -79,7 +79,7 @@ export default function Home() {
     {
       title: "Alumni Management System",
       description: "A web application to manage alumni registrations, event organization, faculty assignments, and certificate distribution with role-based portals for alumni, admin, and faculty.",
-      image: "/ams.png",
+      image: "/AMS.png",
       technologies: ["Next.js", "TypeScript", "Express.js", "MySQL", "Prisma"],
       github: "https://github.com/thakranrishi94/Alumni-Management-System",
       demo: "https://alumni.soet-krmu.com/"
